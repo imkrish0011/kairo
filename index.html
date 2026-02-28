@@ -1914,10 +1914,13 @@
         };
 
         // Environment Setup
-        const firebaseConfig = {
-            apiKey: "WRITE_YOUR_API",
-            authDomain: "WRITE_YOURS",
-            projectId: "YOUR_PROJECT_NAME"
+        export const firebaseConfig = {
+          apiKey: "YOUR_API_KEY",
+          authDomain: "YOUR_AUTH_DOMAIN",
+          projectId: "YOUR_PROJECT_ID",
+          storageBucket: "YOUR_STORAGE_BUCKET",
+          messagingSenderId: "YOUR_SENDER_ID",
+          appId: "YOUR_APP_ID"
         };
 
         const app = initializeApp(firebaseConfig);
@@ -5059,3 +5062,4 @@
 
 
 </html>
+
