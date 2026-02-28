@@ -273,6 +273,45 @@ Inside `manifest.json`:
 
 ---
 
+# 📸 Screenshots
+
+## 🔎 Search & Discover
+Search users instantly and start secure conversations.
+
+![Search Screen](./screenshots/kairo6.jpeg)
+
+---
+
+## 🪪 Identity Details Panel
+View secure identity, encryption fingerprint, and manage connection.
+
+![Identity Details](./screenshots/kairo5.jpeg)
+
+---
+
+## 💬 Message Intents (Normal / Silent / Self-Destruct / Locked)
+
+- 👻 Silent messages
+- 🔥 Self-destructive messages
+- 🔒 Locked encrypted messages
+- 💬 Normal chat
+
+![Chat Intents](./screenshots/kairo3.jpeg)
+
+---
+
+## 🔐 Secure Tunnel View
+Visual encryption layer showing end-to-end protection.
+
+![Secure Tunnel](./screenshots/kairo2.jpeg)
+
+---
+
+## 📂 Chats Dashboard
+Clean minimal chat list with status indicators.
+
+![Chats List](./screenshots/kairo1.jpeg)
+
 # 🛜 Offline Support
 
 The service worker:
